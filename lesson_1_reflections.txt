@@ -33,3 +33,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
     xxxxxxxxxxx
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+test change
